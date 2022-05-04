@@ -1,3 +1,5 @@
 Hi there! 🖖
 
-I'm a software developer from Guatemala. 
+* 👨🏾‍💻 Software developer from Guatemala
+* 🛠️ Passionate about creating and building things
+* 🚴🏾 Bicycle and coffee lover
